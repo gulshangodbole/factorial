@@ -1,9 +1,8 @@
 
 
 
-n=input("Enter no of testcases")
-for i in range(1,n+1):
-    a=input()
+n=input("Enter no ")
+
    
 i=1
 p=1
